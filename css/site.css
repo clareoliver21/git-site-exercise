@@ -7,4 +7,6 @@ img {
 }
 #img1{
     float: right;
+    height: 100px;
+    width: 100px;
 }
