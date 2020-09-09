@@ -1,7 +1,7 @@
 body {
-    background-color: darkblue;
+    background-color: lightblue;
     color: white;
 }
 img {
-    float: left;
+    float: right;
 }
