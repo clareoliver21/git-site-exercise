@@ -10,3 +10,13 @@ img {
     height: 100px;
     width: 100px;
 }
+.main{
+    margin-left: 310px;
+}
+.sidebar {
+    background-color:white;
+    color: black;
+    width: 300px;
+}
+
+
